@@ -5,3 +5,4 @@
 ### Links
 
 - [2D scroll Map](https://codepen.io/jasiukiewicztymon/pen/mdpJezO)
+- [Smooth drag](https://codepen.io/jasiukiewicztymon/pen/xxpwWeB)
