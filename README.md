@@ -11,3 +11,4 @@
 - [KeyBoard](https://codepen.io/jasiukiewicztymon/pen/rNpMpem)
 - [Bruhh](https://codepen.io/jasiukiewicztymon/pen/jOYVNpx)
 - [Pug?](https://codepen.io/jasiukiewicztymon/pen/yLprmLw)
+- [Only CSS Google logo](https://codepen.io/jasiukiewicztymon/pen/RwxzwxP)
