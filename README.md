@@ -12,3 +12,4 @@
 - [Bruhh](https://codepen.io/jasiukiewicztymon/pen/jOYVNpx)
 - [Pug?](https://codepen.io/jasiukiewicztymon/pen/yLprmLw)
 - [Only CSS Google logo](https://codepen.io/jasiukiewicztymon/pen/RwxzwxP)
+- [Only CSS Youtube logo](https://codepen.io/jasiukiewicztymon/pen/GRybypr)
