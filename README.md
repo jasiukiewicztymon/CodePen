@@ -13,3 +13,4 @@
 - [Pug?](https://codepen.io/jasiukiewicztymon/pen/yLprmLw)
 - [Only CSS Google logo](https://codepen.io/jasiukiewicztymon/pen/RwxzwxP)
 - [Only CSS Youtube logo](https://codepen.io/jasiukiewicztymon/pen/GRybypr)
+- [Only CSS Microsoft One Drive logo](https://codepen.io/jasiukiewicztymon/pen/jOZNOey)
