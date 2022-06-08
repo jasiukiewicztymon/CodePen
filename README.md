@@ -19,3 +19,6 @@
 - [Only CSS Twitter Logo](https://codepen.io/jasiukiewicztymon/pen/wvymEeW)
 - [Only CSS animated clock](https://codepen.io/jasiukiewicztymon/pen/YzevJZz)
 - [Bootstrap dashboard](https://codepen.io/jasiukiewicztymon/pen/qBxyZGB)
+- [Dino 404 page](https://codepen.io/jasiukiewicztymon/pen/GRQXrvW)
+- [Hover filp card](https://codepen.io/jasiukiewicztymon/pen/eYVPvKp)
+- [Click flip card](https://codepen.io/jasiukiewicztymon/details/OJQBprr)
