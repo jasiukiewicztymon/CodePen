@@ -23,3 +23,4 @@
 - [Hover filp card](https://codepen.io/jasiukiewicztymon/pen/eYVPvKp)
 - [Click flip card](https://codepen.io/jasiukiewicztymon/details/OJQBprr)
 - [Carousel](https://codepen.io/jasiukiewicztymon/pen/mdXQPwQ)
+- [Casino label](https://codepen.io/jasiukiewicztymon/pen/poaMyZd)
